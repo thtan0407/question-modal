@@ -1,0 +1,1 @@
+Anh xài popup nào thì giữ lại code đó, cứ xóa bỏ cái popup còn lại là được (code HTML thôi)
